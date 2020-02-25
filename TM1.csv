@@ -1,0 +1,35 @@
+Cust_Name,Age_Group,Income_group,segment based on age,Risk Level
+Virat,old,High Inc,platinum,Low Risk and High income
+bishnoi,Senior,Mid Inc,platinum,Low Risk and Mid income
+Radhey,Senior,Mid Inc,platinum,Low Risk and Mid income
+Munna,Senior,Mid Inc,platinum,Low Risk and Mid income
+Sridevi,Senior,Mid Inc,platinum,Low Risk and Mid income
+Ram,Senior,Mid Inc,platinum,Low Risk and Mid income
+Jitendar,Young,High Inc,GOLD,High Risk and High Income
+Salwoman,Young,High Inc,GOLD,High Risk and High Income
+Amee,Young,High Inc,GOLD,High Risk and High Income
+Kapil,Young,High Inc,GOLD,High Risk and High Income
+Micheal,Young,High Inc,GOLD,High Risk and High Income
+Tridev,Young,High Inc,GOLD,High Risk and High Income
+Ravan,Young,High Inc,GOLD,High Risk and High Income
+Pradeep,Young,Mid Inc,GOLD,High Risk and mid income
+Dharmendar,Young,Mid Inc,GOLD,High Risk and mid income
+Ajitabh,Young,Mid Inc,GOLD,High Risk and mid income
+Shah rukh,Young,Mid Inc,GOLD,High Risk and mid income
+Azhar,Young,Mid Inc,GOLD,High Risk and mid income
+Tendulkar,Young,Mid Inc,GOLD,High Risk and mid income
+Niroop,Young,low Inc,GOLD,High Risk and low income
+Wilson,Young,low Inc,GOLD,High Risk and low income
+Amitabh,Young,low Inc,GOLD,High Risk and low income
+Mithoon,Young,low Inc,GOLD,High Risk and low income
+Shah Jaa,Young,low Inc,GOLD,High Risk and low income
+Jadeja,Senior,low Inc,platinum,Low Risk and Low Income
+Yashasvi,Young,low Inc,GOLD,High Risk and low income
+Munni,Young,low Inc,GOLD,High Risk and low income
+Deepak,middle,High Inc,Silver,Medium Risk with high income
+Nishit,middle,Mid Inc,Silver,Medium Risk with Mid income
+Rohit,middle,Mid Inc,Silver,Medium Risk with Mid income
+Narendra,old,High Inc,Silver,Medium Risk with high income
+Amit,middle,Mid Inc,Silver,Medium Risk with Mid income
+Salman,Young,Mid Inc,Silver,Medium Risk with Mid income
+Ameer,middle,Mid Inc,Silver,Medium Risk with Mid income
